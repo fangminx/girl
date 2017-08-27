@@ -1,0 +1,15 @@
+server:
+  port: 8081
+  context-path: /girl
+
+#自定义配置
+age: 18
+cupSize: B
+
+#在配置中使用配置
+content: "cupSize: ${cupSize}, age: ${age}"
+
+#使用配置类GirlProperties
+girl:
+  age: 19
+  cupSize: A
