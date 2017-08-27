@@ -1,4 +1,4 @@
-package com.fangminx.girl;
+package com.fangminx;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

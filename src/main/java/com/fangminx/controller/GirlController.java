@@ -1,5 +1,8 @@
-package com.fangminx.girl;
+package com.fangminx.controller;
 
+import com.fangminx.service.GirlService;
+import com.fangminx.domain.Girl;
+import com.fangminx.repository.GirlRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

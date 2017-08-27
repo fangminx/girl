@@ -1,4 +1,4 @@
-package com.fangminx.girl;
+package com.fangminx.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

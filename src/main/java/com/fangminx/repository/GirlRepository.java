@@ -1,5 +1,6 @@
-package com.fangminx.girl;
+package com.fangminx.repository;
 
+import com.fangminx.domain.Girl;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

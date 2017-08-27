@@ -1,4 +1,4 @@
-package com.fangminx.girl;
+package com.fangminx.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
