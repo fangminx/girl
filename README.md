@@ -94,7 +94,7 @@ File->Setting->Version Control->GibHub
 Host：github.com
 Token：点击Create API Token，输入在github中注册的用户名和密码生成token
 
-项目右键没有git选项：VCS->checkout from version control->github
+项目右键没有git选项：VCS->
 
 第一次push，先pull，git pull origin master --allow-unrelated-histories
 ```
